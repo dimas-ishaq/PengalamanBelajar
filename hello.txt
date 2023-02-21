@@ -1,1 +1,1 @@
-Hello Wordl, hari ini saya mencoba mengimplementasikan github branch dan merge
+Hello Wordl, hari ini saya mencoba mengimplementasikan github branch dan merge, percobaan conflict saat merge
